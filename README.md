@@ -11,10 +11,10 @@ Technologies
  - jquery
  - javascript
  
-Requirments
+Requirements
  
- - There is no requiermment all you need to download the project and publisht  to iis server.
- - or you can debug on visual studio 2013 and over version.
+ - There is no requirement all you need to download the project and deploy to iis server.
+ - or you can debug on visual studio 2013 and over versions.
  
- when you open the project if you care the signalR processes you must investigate especially ChatHelper.cs, chat.js and 
+ when you open the project if you want to investigate how signalR works, you must look at especially ChatHelper.cs, chat.js and 
  index.cshtml within Chat folder.
